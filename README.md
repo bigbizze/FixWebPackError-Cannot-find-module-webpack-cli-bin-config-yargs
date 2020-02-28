@@ -21,7 +21,7 @@ error Command failed with exit code 1.
 info Visit https://yarnpkg.com/en/docs/cli/run for documentation about this command.
 ```
 
-And have python installed, you can prepend this script to your package.json command like this:
+And have python installed, you can prepend a call to this script to your package.json webpack-dev-server command like this:
 
 ```
  "scripts": {
