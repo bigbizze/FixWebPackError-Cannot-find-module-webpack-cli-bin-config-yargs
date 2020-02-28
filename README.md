@@ -31,3 +31,5 @@ And have python installed, you can prepend this script to your package.json comm
 ```
 
 & it will fix the issue for you.
+
+I have the file inside a folder in the root of the project directory called 'utils'.
