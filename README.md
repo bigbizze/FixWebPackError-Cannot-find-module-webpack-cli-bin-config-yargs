@@ -1,5 +1,5 @@
 # FixWebPackError-Cannot-find-module-webpack-cli-bin-config-yargs
-python script to fix: Error: Cannot find module 'webpack-cli/bin/config-yargs' when using webpack-dev-server &amp; webpack
+python script to fix: ```Error: Cannot find module 'webpack-cli/bin/config-yargs' when using webpack-dev-server &amp; webpack```
 
 If you have the following error when using webpack-dev-server:
 ```
